@@ -100,9 +100,9 @@ data-warehouse-project/
 ---
 
 ## 👤 About Me
-Hi There! I am **Mohamed El-laithy** a Professional Data Analyst dedicated to building scalable data solutions and transforming raw data into actionable business insights. This project reflects my proficiency in SQL Server, Medallion Architecture, and data modeling.
+Hi There! I am **Mohamed Ellithy** a Professional Data Analyst dedicated to building scalable data solutions and transforming raw data into actionable business insights. This project reflects my proficiency in SQL Server, Medallion Architecture, and data modeling.
 
-*   **LinkedIn:** [Mohamed El-laithy](https://www.linkedin.com/in/mohamed-el-lithy/)
+*   **LinkedIn:** [Mohamed Ellithy](https://www.linkedin.com/in/mohamed-el-lithy/)
 *   **Email:** mohamed.elliethy@hotmail.com
 
 ---
